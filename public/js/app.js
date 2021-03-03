@@ -37856,7 +37856,7 @@ var render = function() {
         _c(
           "router-link",
           { staticClass: "navbar-brand", attrs: { to: { name: "home" } } },
-          [_vm._v("Laravel-Vue SPA")]
+          [_vm._v("SPA")]
         ),
         _vm._v(" "),
         _vm._m(0),
